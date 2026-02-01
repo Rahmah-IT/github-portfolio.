@@ -1,1 +1,0 @@
-![terminal screenshot](terminal.png)
