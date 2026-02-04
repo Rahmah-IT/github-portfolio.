@@ -1,4 +1,4 @@
-## Classmates I Follow 
+## Collaborators
 
  - [Cyber_Doc](https://github.com/Cyber_Doc)
 - [bkishman](https://github.com/bkishman)
@@ -8,8 +8,12 @@
 - [mocaorsa](https://github.com/mocaorsa)
 
 
+
+
  Cybersecurity Lab Portfolio – Afaq
 Welcome to my personal cybersecurity lab portfolio. As a SOC Analyst and cybersecurity enthusiast, I’m building hands-on labs to strengthen my skills in threat detection, offensive security, and incident response. This space will showcase my learning journey, tools I've worked with, and practical exercises that reflect real-world scenarios.
+
+-----
 
 🧪 Lab Projects (In Progress)
 1. Web Application Penetration Testing (In Progress)
@@ -24,10 +28,15 @@ Goal: Simulate real-world attack scenarios and document exploitation steps
 Tools: Elastic SIEM, Kibana, Sysmon, Winlogbeat
 Focus: Log correlation, alert creation, dashboarding
 Goal: Detect brute-force attempts, suspicious processes, and registry changes in a simulated SOC environment
+
+----
+
 🛠️ Lab Setup
 Virtualisation: VirtualBox with Kali Linux, Windows 10, and Windows 8
 SIEM Stack: Elastic Stack with Wazuh integration
 Monitoring Agents: Sysmon + Winlogbeat for endpoint telemetry
+
+------
 📌 Next Steps
 Publishing detailed write-ups and screenshots for each lab
 Expanding into cloud security labs (AWS, Azure)
