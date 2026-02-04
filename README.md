@@ -1,17 +1,22 @@
 ## Collaborators
 
- - [Cyber_Doc](https://github.com/Cyber_Doc)
-- [bkishman](https://github.com/bkishman)
-- [N-alaiban](https://github.com/N-alaiban)
-- [MA007-Alamri](https://github.com/MA007-Alamri)
-- [ClaireKamobaya](https://github.com/ClaireKamobaya)
-- [mocaorsa](https://github.com/mocaorsa)
+ - [Cyber_Doc] (https://github.com/Cyber_Doc)
+- [bkishman] (https://github.com/bkishman)
+- [N-alaiban] (https://github.com/N-alaiban)
+- [MA007-Alamri] (https://github.com/MA007-Alamri)
+- [ClaireKamobaya] (https://github.com/ClaireKamobaya)
+- [mocaorsa] (https://github.com/mocaorsa)
 
 
+##Forked Repositories
 
 
- Cybersecurity Lab Portfolio – Afaq
-Welcome to my personal cybersecurity lab portfolio. As a SOC Analyst and cybersecurity enthusiast, I’m building hands-on labs to strengthen my skills in threat detection, offensive security, and incident response. This space will showcase my learning journey, tools I've worked with, and practical exercises that reflect real-world scenarios.
+### Cybersecurity-labs-afaq
+**Author:**afaqjaved1995
+**Description:**A collection of hands-on
+cybersecurity labs covering networking , security concepts , and practical exercises.
+**Relevance:**Helps me practice real-world cybersecurity labs and strenghthen my understanding of securityfundamentals.
+
 
 -----
 
